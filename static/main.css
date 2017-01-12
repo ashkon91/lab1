@@ -1,0 +1,21 @@
+body{
+  background-image: url("https://github.com/ashkon91/ashkon91.github.io/blob/master/img/shievo.jpg?raw=true");
+  color: white;
+  size: 20px;
+  text-align: center;
+  text-decoration: none;
+  top: 50%;
+}
+
+.div1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+  position: center;
+  list-style-type: none;
+
+}
+.div1:visited{
+  color: white;
+}
